@@ -43,4 +43,8 @@ Supports private messaging, group chat, authentication, and message persistence.
 ### 1. Clone the repo
 ```bash
 git clone https://github.com/YOUR_USERNAME/chat-application-backend.git
+HEAD
 cd chat-application-backend
+
+cd chat-application-backend
+c398dc6 (saving pending changes before pull)
